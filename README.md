@@ -2,7 +2,7 @@
 
 ![](./img/home_image.png)
 
-[Clique aqui](https://elden-ring-eight.vercel.app/classes) para acessar o site.
+[Clique aqui](https://elden-ring-eight.vercel.app/) para acessar o site.
 ---
 ## Sobre
 Um pequeno projeto consumindo uma API escolhida (no meu caso a https://eldenring.fanapis.com/) com o intuito de praticar o consumo de API 
